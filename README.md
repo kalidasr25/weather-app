@@ -1,16 +1,18 @@
 # Weather App
 
-A simple weather application built using HTML, CSS, and JavaScript.  
-Uses the OpenWeather API to fetch real-time weather data.
+A simple weather application that displays real-time weather data using the OpenWeather API.
 
-## Features
-- Real-time weather data
-- Temperature conversion
-- Weather emojis
-- Error handling
-- Responsive UI
+### 🔗 Live Demo  
+https://kalidasr25.github.io/weather-app/
 
-## Tech Stack
+### 🛠️ Technologies Used
 - HTML
 - CSS
-- JavaScript (Fetch API)
+- JavaScript
+- OpenWeather API
+
+### Features
+- Real-time weather updates
+- Emoji-based weather icons
+- Temperature & humidity display
+- Error handling with clean UI
